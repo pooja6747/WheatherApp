@@ -18,7 +18,6 @@ export default function Whether() {
         .then((response)=>{
             setLoading(false);
             setData(response);
-            console.log("Response is",response);
         })
     };
 
