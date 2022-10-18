@@ -4,7 +4,7 @@ const ErrorBoundries = () => {
 
   return (
     <>
-        <h1>Error boundary</h1>
+        <h1>Error boundrie add for Git command</h1>
     </>
   )
 }
